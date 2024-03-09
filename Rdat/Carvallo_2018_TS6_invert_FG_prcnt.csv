@@ -1,0 +1,37 @@
+Site,Year,Season,Filter Feeder,Collector-Gatherer,Herbivore,Predator,Shredder
+Tranquitas Creek,2017,Fall,0.143,0.685,0.046,0.126,0
+Tranquitas Creek,2018,Winter,0,0.5,0.15,0.35,0
+Tranquitas Creek,2018,Spring,0.613,0.055,0.05,0.282,0
+Tranquitas Creek,2018,Summer,0.066,0.181,0.253,0.5,0
+San Fernando Creek,2017,Fall,0.495,0.123,0,0.383,0
+San Fernando Creek,2018,Winter,0.45,0.044,0.024,0.482,0
+San Fernando Creek,2018,Spring,0.005,0.585,0.038,0.372,0
+San Fernando Creek,2018,Summer,0.058,0.29,0.285,0.368,0
+Aransas River,2017,Fall,0.024,0.302,0.129,0.544,0
+Aransas River,2018,Winter,0.106,0.512,0.167,0.215,0
+Aransas River,2018,Spring,0.3,0.233,0.176,0.291,0
+Aransas River,2018,Summer,0.268,0.333,0.089,0.31,0
+Mission River,2017,Fall,0.033,0.586,0.039,0.342,0
+Mission River,2018,Winter,0.17,0.2,0.392,0.238,0
+Mission River,2018,Spring,0.065,0.371,0.106,0.459,0
+Mission River,2018,Summer,0.036,0.363,0.091,0.51,0
+Perdido Creek,2017,Fall,0.453,0.116,0.202,0.229,0
+Perdido Creek,2018,Winter,0.45,0.137,0.2,0.212,0
+Perdido Creek,2018,Spring,0.094,0.179,0.392,0.334,0
+Perdido Creek,2018,Summer,0.275,0.374,0.155,0.197,0
+Placedo Creek,2017,Fall,0.155,0.117,0.052,0.677,0
+Placedo Creek,2018,Winter,0.004,0.11,0.03,0.855,0
+Placedo Creek,2018,Spring,0.388,0.052,0.187,0.373,0
+Placedo Creek,2018,Summer,0.403,0.152,0.113,0.332,0
+Garcitas Creek,2017,Fall,0.033,0.539,0.131,0.297,0
+Garcitas Creek,2018,Winter,0.078,0.382,0.236,0.303,0
+Garcitas Creek,2018,Spring,0.362,0.122,0.311,0.205,0
+Garcitas Creek,2018,Summer,0.236,0.231,0.144,0.39,0
+West Mustang Creek,2017,Fall,0.044,0.185,0.195,0.576,0
+West Mustang Creek,2018,Winter,0.046,0.26,0.387,0.307,0
+West Mustang Creek,2018,Spring,0.054,0.097,0.007,0.842,0
+West Mustang Creek,2018,Summer,0.065,0.483,0.352,0.101,0
+East Mustang Creek,2017,Fall,0.082,0.512,0.328,0.078,0
+East Mustang Creek,2018,Winter,0.116,0.033,0.007,0.844,0
+East Mustang Creek,2018,Spring,0.055,0.178,0.386,0.382,0
+East Mustang Creek,2018,Summer,0.134,0.422,0.113,0.332,0

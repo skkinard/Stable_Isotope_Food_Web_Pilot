@@ -1,0 +1,31 @@
+# Algal-Dependency in Sub-Tropical, Arid Streams 
+
+Methods:
+Tracing Algal prevalence in three (Semi-Arid, Transitional, and Sub-Humid) freshwater communities to predict effects of aridity on food webs. Calculations create outputs for the folloiwing: community composition, diversity, and abundance, Bayesian stable isotope mixing models, bootstrapped estimates of deuterium and nitrogen range, isotopic trophic levels. Outputs are used for visualization as figures and tables. markdown documents compile visualizations as figures, tables, and supplemental matierials documents. These analyses and accompanying prose are currently under peer review for scientific publishing.
+
+### Data Pre-Processing
+- Filtering, selecting, and restructuring data
+- Calculating summary statistics
+- Text Processing using substr, paste, and custom functions
+- Handling missing data and outliers through filtering and aggregation
+- Extraction for analysis and visualization.
+- Conducting statistical tests and calculating p-values for comparisons.
+- Formatting data for downstream analysis and visualization tools.
+- Performing quality checks and validation to ensure data integrity.
+- Preparing data for statistical modeling and analysis
+
+### Statistical Analyses and Visualization
+- Bayesian Statistics
+- Bootstrapped mean comparisons
+- Special Calculations: niche metrics (ellipse area, N-range, H-range)
+- Regression
+- ANOVA
+- MRA
+- Redundancy Analysis (RDA)
+- Map Generation
+
+# Research Summary
+Global warming is expected to increase aridity in subtropical regions such as the North American Southwest, areas around the Mediterranean Sea, and South Africa. To enhance our understanding of how freshwater communities will adjust to these shifts in water-cycle dynamics, we employed a space-for-time substitution of community surveys, experimental manipulation, and stable isotope analysis in three wadeable freshwater streams along a precipitation gradient from semi-arid (55cm/yr) to sub-humid (85cm/yr) in South Central Texas. In May 2018, Ceramic tiles in and outside of fish exclosures revealed algal standing stocks related positively with aridity, and fish effects transition from a trophic cascade mediated through predation on invertebrate grazers to direct herbivory as precipitation decreases. Matching this pattern, Bayesian source-partitioning models using hydrogen and carbon stable isotopes revealed increasing aquatic source assimilation (autochthony) in drier climate in fish and invertebrate communities. Sub-Humid fish communities exhibited low autochthony (5%) compared to Transition (36%) and Semi-Arid (75%) communities. Also, the range of H values within fish communities implicate resource specialization at the Semi-Arid site because of greater resource breadth (58±11 ‰) compared to Sub-Humid (41±14 ‰) sites. Lastly, trophic levels estimated with nitrogen data indicate fewer steps in the food chain between primary producers and fish in the Semi-Arid site (1.7) compared to the Sub-Humid site (3.1). We interpret these results to indicate that the consequences of aridification in small streams include enhanced autochthonous production, increased herbivory, and a shortened overall food chain. These results point towards arid stream communities being adapted to famine or feast production cycles that accompany the ramping stresses applied during droughts and the pulses of nutrients following flash floods and future aridification is likely to drive comparable changes in stream structure and function.
+
+Author note:
+The results are published in my dissertation at William and Mary as well as being peer-reviewed for publication in 2024.

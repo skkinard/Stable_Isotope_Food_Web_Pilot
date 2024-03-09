@@ -1,0 +1,4 @@
+site_name,site,CO2_amp,oxygen,oxygen_sd,H2_amp,hydrogen,hydrogen_sd
+Garcitas,GC,8354,-2.74,0.1,5633,-6.45,1.77
+Aranoa,AR,8337,-1.82,0.13,5813,-17.17,2.77
+San Fernando,SFC,8338,1.49,0.08,5678,7.36,2.34
