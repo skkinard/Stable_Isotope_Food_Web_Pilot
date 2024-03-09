@@ -1,0 +1,7 @@
+Site,Treatment,Algae,CI.95,Sit.Sig,Tre.Sig
+Semi-Arid,Exclosure,2.78,"(2.30, 3.26)",∗∗,∗
+Transition,Exclosure,0.40,"(0.17, 0.64)",∗∗,
+Sub-Humid,Exclosure,0.02,"(0.01, 0.03)",∗∗,∗
+Semi-Arid,Open,1.23,"(0.70, 1.74)",∗∗,∗
+Transition,Open,0.21,"(0.10, 0.32)",∗,
+Sub-Humid,Open,0.10,"(0.07, 0.13)",∗,∗

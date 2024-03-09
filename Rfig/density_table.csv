@@ -1,0 +1,7 @@
+Guild,Semi-Arid,Sub-Humid,Transition,TukeyHSD Comparison,Difference,p-value
+Fish,1.1 ± 0.4,0.3 ± 0.1,0.6 ± 0.4,Transition-Semi-Arid,-5.7e-01,0.33
+Fish,1.1 ± 0.4,0.3 ± 0.1,0.6 ± 0.4,Sub-Humid-Semi-Arid,-9.3e-01,0.10
+Fish,1.1 ± 0.4,0.3 ± 0.1,0.6 ± 0.4,Sub-Humid-Transition,-3.5e-01,0.62
+Invertebrate,278 ± 66,1257 ± 1002,577 ± 137,Transition-Semi-Arid,3.2e+02,0.85
+Invertebrate,278 ± 66,1257 ± 1002,577 ± 137,Sub-Humid-Semi-Arid,1.0e+03,0.27
+Invertebrate,278 ± 66,1257 ± 1002,577 ± 137,Sub-Humid-Transition,6.9e+02,0.51

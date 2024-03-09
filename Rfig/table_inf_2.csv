@@ -1,0 +1,25 @@
+Element,Taxa,Range Ext.,Site,R.Abundance,Aquatic,I.T.L,T.Group
+H,Thiaridae,19.905061463857564,Transition, 3,60 †,    †,I-Herbivore
+H,Belostomatidae,41.026890013408526,Semi-Arid, 1,62 †,0.3 †,I-Predator
+H,Dytiscidae,24.26866141471838,Sub-Humid, 1,41 †,0.9 †,I-Predator
+H,Corduliidae,17.72125032948131,Sub-Humid, 1,41 †,0.9 †,I-Predator
+H,Corydalidae,12.869906086497798,Transition,,22 †,1.4 †,I-Predator
+H,Coenagrionidae,7.504173134848187,Semi-Arid, 3,46,0.3 †,I-Predator
+H,P.latipinna,36.18302654719941,Semi-Arid,42,80,0.4,F-Herbivore
+H,L.macrochirus,33.36461292663529,Sub-Humid,15,8,2.6,F-Invertivore
+H,C.lutrensis,15.25926812669624,Transition,35,36 †,1.7 †,F-Invertivore
+H,L.cyanellus,12.7896268008945,Transition,10,34,1.1,F-Piscivore
+H,L.cyanellus,11.368314331870812,Semi-Arid, 2,62,0.7,F-Piscivore
+H,M.salmoides,0.6496339081230342,Sub-Humid, 3,10 †,2.1 †,F-Piscivore
+N,Leptophlebiidae,10.748566241301418,Sub-Humid, 4,46 †,    †,I-Gatherer
+N,Palaemonidae,3.943158249796437,Sub-Humid, 4,46 †,    †,I-Gatherer
+N,Corbiculidae,14.643646032524426,Transition, 2,31,0.2,I-Filterer
+N,Aeshnidae,21.390235398821417,Semi-Arid, 1,62 †,0.3 †,I-Predator
+N,Nepidae,21.121883664372582,Semi-Arid, 2,62 †,0.3 †,I-Predator
+N,Coenagrionidae,14.510113415701328,Transition, 4,25,1.4 †,I-Predator
+N,L.macrochirus,49.226896947449944,Sub-Humid,15,8,2.6,F-Invertivore
+N,L.macrochirus,6.570721825308985,Transition,19,36,1.3,F-Invertivore
+N,L.auritus,1.2394386605459644,Sub-Humid, 9,5 †,2.1 †,F-Invertivore
+N,L.gulosus,0.9924923988450414,Semi-Arid, 2,63,0.7,F-Invertivore
+N,L.oculatus,25.942528126840376,Semi-Arid, 2,70 †,1.1 †,F-Piscivore
+N,M.salmoides,14.896947982566203,Transition, 5,34 †,1.9 †,F-Piscivore

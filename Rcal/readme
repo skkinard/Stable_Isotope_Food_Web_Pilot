@@ -1,0 +1,76 @@
+# Script Summaries for research project determining basal resource usage within aquatic communities under different precipitation regimes
+
+### 00_setup_packages
+- The script loads various packages for data analysis and visualization, defines objects including color schemes and taxonomic labels, and contains several functions for data manipulation, including fixing site codes, reordering site factors, rounding numbers, adding significance asterisks to numbers, detecting non-overlapping confidence intervals, adding taxonomic information, and estimating bootstrapped statistics.
+
+### 00_tidy_fish
+- The script performs data cleaning and tidying on fish abundance data, addressing errors, filtering out specific taxa, replacing juvenile sunfish taxa, calculating stream area sampled, and exporting the cleaned dataset.
+
+### 00_tidy_invert
+- The script reads and tidies invertebrate kick sampling data, calculating taxon abundances per square meter, extracting taxonomic information, and exporting the cleaned dataset.
+
+### 00_tidy_isotope
+- The script loads and tidies isotope data, merging datasets, handling missing values, calculating summary statistics, identifying and removing outliers, and exporting the cleaned dataset for further analysis.
+
+### 01_communities
+- The script loads, merges, filters, and exports datasets containing fish and invertebrate community data, focusing on specific sites and dates within a defined timeframe.
+
+### 01_density_calc
+- The script calculates and visualizes the density of fish and invertebrate communities, conducts ANOVA tests comparing density among different sites for fish and invertebrates separately, and exports the results along with the dataset.
+
+### 01_diversity_calc
+- The script estimates Hill numbers for fish and invertebrate communities, conducts ANOVA tests for Shannon-Wiener diversity among different sites for both guilds, and exports the results along with the diversity estimates.
+
+### 01_forklength_calc
+- The script visualizes and conducts statistical comparisons for size distributions of whole fish communities and common fish families (Centrarchidae, Poeciliidae, Lacustreidae).
+
+### 01_isotope_scatter_calc
+- The script preprocesses isotope data, fixing names, removing detritus and aquatic vegetation, and exploring baselines, followed by analysis and visualization of terrestrial and aquatic sources, identifying and removing outliers.
+
+### 01_RDA_environment
+- The script prepares and tidies environmental data including flow, transect measurements, and rainfall, merging them by site and date for analysis, filtering for a specific time period, and selecting relevant environmental variables.
+
+### 01_RDA_fish_calc
+- The script conducts Redundancy Analysis (RDA) to explore the relationship between fish community composition and environmental variables, producing coordinates, axis information, and fitted vectors, and exporting the results for further analysis.
+
+### 01_RDA_invertebrate_calc
+- The script conducts Redundancy Analysis (RDA) to explore the relationship between invertebrate community composition and environmental variables, generating coordinates, axis information, and fitted vectors, and exporting the results for further analysis.
+
+### 01_site_table
+- The script generates a table containing mean, standard error, and sample size for environmental variables including canopy, nitrate, phosphate, channel width, depth, conductivity, and discharge, exported for further analysis.
+
+### 02_adjust_d2H
+- The script adjusts hydrogen isotope values in a dataset based on environmental water contribution, applies functional feeding groups (FFGs) to invertebrate samples, and exports the modified dataset for further analysis.
+
+### 02_algae_boot_calc
+- The script performs bootstrapping to estimate means and 95% confidence intervals (CI) for total algae across different treatments and sites, detects non-overlapping 95% CI, and exports the results.
+
+### 03_CH_mixing_model_calc
+- The script conducts compound-specific isotope analysis (CSIA) mixing models across different ecological groups (guilds, trophic levels, common species, fish size groups), aggregating statistics and quantile information, and exports the results.
+
+### 03_CH_mixing_model_function
+- The provided script defines a function run_simmr that conducts compound-specific isotope analysis (CSIA) mixing models using carbon and hydrogen data for a given location and grouping variable. It performs data preparation, runs the mixing model, extracts statistics and quantile information, conducts diagnostics, and generates plots and results, returning the output.
+
+### 04_adjust_d15N_calc
+- The script conducts nitrogen calibration for compound-specific isotope analysis (CSIA) data, adjusting d15N values based on the proportion of nitrogen sources and their isotopic compositions. It then visualizes the transformed nitrogen data using boxplots and density plots, finally saving the adjusted data to a CSV file.
+
+### 05_isotopic_TL_calc
+- The script calculates isotopic trophic levels from corrected nitrogen data, providing summary statistics for guilds, trophic categories, and common species, and reorganizes factor levels for better interpretation, then checks for confidence interval overlap and saves the results to CSV files.
+
+### 06_HN_range_calc
+- The script filters isotopic data for fish and invertebrate guilds, calculates the percentage composition of community species, extracts aquatic species and trophic categories, and estimates isotopic trophic levels for specific species and trophic categories. Then, it computes bootstrap estimates for hydrogen and nitrogen ranges across different guilds and saves the results to a CSV file.
+
+### 06_HN_SIBER_calc
+- The script estimates isotopic niche area using a HN ellipse, niche height using Food Chain Length, theoretical niche volume using width * height, and additional metrics such as nearest neighbor distance. It reports metrics for guild, fish sizes, invertebrate trophic groups, and common taxa in a grid.
+
+### 07_range_influence
+- The script identifies species influencing signature ranges by calculating the influence of each species on hydrogen, carbon, and nitrogen isotopic ranges. It generates a table showing the extent of influence, relative abundance, aquatic trophic level, and isotopic trophic level for each species at different sites and trophic categories.
+
+### 08_autotrophy
+- The script computes flow statistics and autotrophic predictors for different sites, including median flow, maximum flow deviation from the median, standard deviation of flow, and the percentage of days with flow exceeding three times the median flow. Additionally, it calculates autotrophic predictors such as algal plate measurements, chlorophyll levels, nitrate, and phosphate concentrations, considering factors like rainfall and canopy density.
+
+### 09_carvallo_2022_extraction
+- The script extracts functional feeding group data on invertebrate communities as analyzed in Carvallo et al. 2022. It includes the creation of tables and figures displaying the proportions of herbivore, predator, and other invertebrate functional feeding groups in Spring 2018 and each season of 2018, along with abundance and diversity metrics.
+
+### 10_3SP_index
+- The script contains abbreviations for values extracted from results, including aquatic assimilation, trophic level, exclosure statistics, community niche metrics, density, diversity, autotrophy, and RDA analysis for both fish and invertebrates.

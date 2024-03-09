@@ -1,0 +1,16 @@
+E.Variable,Units,Semi-Arid,Transition,Sub-Humid
+Site Name,,San Fernando Creek,Aransas River,Garcitas Creek
+Latitude,DD,27.773,28.283,28.891
+Longitude,DD,-98.034,-97.621,-96.819
+Rainfall,cm/yr,56.67,68.53,84.25
+Temperature,°C,22.22,21.55,21.21
+Elevation,m,62,47,20
+Discharge,cfs,144. ± 83.1,89.2 ± 50.2,30.9 ± 17.8
+Measurements,,9,9,9
+Canopy,%,0.87 ± 0.03,0.89 ± 0.01,0.94 ± 0.01
+Algae,µg/cm^2,0.60 ± 0.10,2.23 ± 0.39,1.44 ± 0.49
+Channel Width,m,2.83 ± 0.13,3.28 ± 0.22,6.33 ± 0.60
+Depth Max,m,0.32 ± 0.05,0.17 ± 0.01,0.27 ± 0.03
+Conductivity,µcm/S,1165 ± 91.7,1546 ± 40.0,517. ± 41.3
+Nitrate,mg/L,11.9 ± 0.63,4.51 ± 0.34,0.20 ± 0.06
+Phosphate,mg/L,2.20 ± 0.05,2.12 ± 0.14,0.18 ± 0.04
