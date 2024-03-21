@@ -1,4 +1,4 @@
-# Algal-Dependency in Sub-Tropical, Arid Streams 
+# Algal-Dependency in Sub-Tropical, Arid Streams
 
 Methods:
 Tracing Algal prevalence in three (Semi-Arid, Transitional, and Sub-Humid) freshwater communities to predict effects of aridity on food webs. Calculations create outputs for the folloiwing: community composition, diversity, and abundance, Bayesian stable isotope mixing models, bootstrapped estimates of deuterium and nitrogen range, isotopic trophic levels. Outputs are used for visualization as figures and tables. markdown documents compile visualizations as figures, tables, and supplemental matierials documents. These analyses and accompanying prose are currently under peer review for scientific publishing.
